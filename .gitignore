@@ -1,4 +1,7 @@
 config.properties
+Main.java
+OpenAITest.java
+
 
 # Compiled class file
 *.class
